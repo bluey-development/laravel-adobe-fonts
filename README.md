@@ -177,6 +177,7 @@ Please review [our security policy](../../security/policy) on how to report secu
 ## Credits
 
 - [Robin Dirksen](https://github.com/robindirksen1)
+- [Bluey Development](https://bluey.dev/?ref=github-laravel-adobe-fonts)
 - [Spatie (Laravel Google Fonts)](https://github.com/spatie/laravel-google-fonts)
 - [All Contributors](../../contributors)
 
